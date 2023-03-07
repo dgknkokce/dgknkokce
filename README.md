@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dogukankokce00@gmail.com
 - ⚡ Fun fact: Love Berserk
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- Skill Set:
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,prometheus,terraform,redis,git,js,python,bash)](https://skillicons.dev)
 
