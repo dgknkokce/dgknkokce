@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Love Berserk
 
 - Skill Set:
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,prometheus,terraform,redis,git,js,python,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,prometheus,redis,git,js,python,bash)](https://skillicons.dev)
 
